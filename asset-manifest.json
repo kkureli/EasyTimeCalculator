@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/EasyTimeCalculator/static/css/main.7bf650d6.chunk.css",
-    "main.js": "/EasyTimeCalculator/static/js/main.4ae667f9.chunk.js",
-    "main.js.map": "/EasyTimeCalculator/static/js/main.4ae667f9.chunk.js.map",
+    "main.js": "/EasyTimeCalculator/static/js/main.0c7eeefb.chunk.js",
+    "main.js.map": "/EasyTimeCalculator/static/js/main.0c7eeefb.chunk.js.map",
     "runtime-main.js": "/EasyTimeCalculator/static/js/runtime-main.2f6894f8.js",
     "runtime-main.js.map": "/EasyTimeCalculator/static/js/runtime-main.2f6894f8.js.map",
     "static/js/2.2cd12626.chunk.js": "/EasyTimeCalculator/static/js/2.2cd12626.chunk.js",
     "static/js/2.2cd12626.chunk.js.map": "/EasyTimeCalculator/static/js/2.2cd12626.chunk.js.map",
     "index.html": "/EasyTimeCalculator/index.html",
-    "precache-manifest.8b4033979b24119720fb9aa1f0ce036f.js": "/EasyTimeCalculator/precache-manifest.8b4033979b24119720fb9aa1f0ce036f.js",
+    "precache-manifest.c8e5f6ac7db67e8b5c2c332a5ed5b9e6.js": "/EasyTimeCalculator/precache-manifest.c8e5f6ac7db67e8b5c2c332a5ed5b9e6.js",
     "service-worker.js": "/EasyTimeCalculator/service-worker.js",
     "static/css/main.7bf650d6.chunk.css.map": "/EasyTimeCalculator/static/css/main.7bf650d6.chunk.css.map",
     "static/js/2.2cd12626.chunk.js.LICENSE.txt": "/EasyTimeCalculator/static/js/2.2cd12626.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.2f6894f8.js",
     "static/js/2.2cd12626.chunk.js",
     "static/css/main.7bf650d6.chunk.css",
-    "static/js/main.4ae667f9.chunk.js"
+    "static/js/main.0c7eeefb.chunk.js"
   ]
 }
