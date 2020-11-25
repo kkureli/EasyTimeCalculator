@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e7a4bcf42b648b7b12bcfe9d8eaf78ec",
+    "revision": "c72abc0d266e063977ef3af3a4bef521",
     "url": "/EasyTimeCalculator/index.html"
   },
   {
-    "revision": "cd6c8443025c31f24b0b",
+    "revision": "c791c42e65f237023caa",
     "url": "/EasyTimeCalculator/static/css/main.7bf650d6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/EasyTimeCalculator/static/js/2.2cd12626.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cd6c8443025c31f24b0b",
-    "url": "/EasyTimeCalculator/static/js/main.0c7eeefb.chunk.js"
+    "revision": "c791c42e65f237023caa",
+    "url": "/EasyTimeCalculator/static/js/main.d410e10b.chunk.js"
   },
   {
     "revision": "40c7c3f48897e1e39f8e",
